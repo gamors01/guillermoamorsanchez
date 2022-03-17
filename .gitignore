@@ -1,0 +1,7 @@
+# Ficheros compilados:
+
+*.class
+
+# Ficheros de configuración:
+
+*.conf
